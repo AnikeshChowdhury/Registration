@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background: url("Image/Registration.jpeg");
+    background: url("/Registration.jpeg");
     background-size: 1000%;
     background-position: -400px 0px;
 }
